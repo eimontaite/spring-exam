@@ -1,0 +1,12 @@
+/home/aiste/Downloads/it-akademija-repeated-exam-2017-master/spring-exam/src/main/java/lt/itakademija/model/Id.java
+/home/aiste/Downloads/it-akademija-repeated-exam-2017-master/spring-exam/src/main/java/lt/itakademija/repository/MessengerRepository.java
+/home/aiste/Downloads/it-akademija-repeated-exam-2017-master/spring-exam/src/main/java/lt/itakademija/repository/SequenceGeneratorImpl.java
+/home/aiste/Downloads/it-akademija-repeated-exam-2017-master/spring-exam/src/main/java/lt/itakademija/model/query/Contact.java
+/home/aiste/Downloads/it-akademija-repeated-exam-2017-master/spring-exam/src/main/java/lt/itakademija/repository/SequenceGenerator.java
+/home/aiste/Downloads/it-akademija-repeated-exam-2017-master/spring-exam/src/main/java/lt/itakademija/controller/MessengerServiceController.java
+/home/aiste/Downloads/it-akademija-repeated-exam-2017-master/spring-exam/src/main/java/lt/itakademija/model/command/CreateMessage.java
+/home/aiste/Downloads/it-akademija-repeated-exam-2017-master/spring-exam/src/main/java/lt/itakademija/model/query/Message.java
+/home/aiste/Downloads/it-akademija-repeated-exam-2017-master/spring-exam/src/main/java/lt/itakademija/repository/InMemoryMessengerRepository.java
+/home/aiste/Downloads/it-akademija-repeated-exam-2017-master/spring-exam/src/main/java/lt/itakademija/model/command/CreateContact.java
+/home/aiste/Downloads/it-akademija-repeated-exam-2017-master/spring-exam/src/main/java/lt/itakademija/model/command/UpdateContact.java
+/home/aiste/Downloads/it-akademija-repeated-exam-2017-master/spring-exam/src/main/java/lt/itakademija/Application.java
